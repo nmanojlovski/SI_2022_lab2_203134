@@ -1,2 +1,7 @@
 # SI_2022_lab2_203134
-Nikola Manojlovski 203134
+Никола Манојловски 203134
+
+2.
+![Screenshot (95)](https://user-images.githubusercontent.com/100382244/171926699-1d892777-e569-4fac-ba18-4ac806388554.png)
+
+3. Цикломатската комплексност на дадениот код е 9.
